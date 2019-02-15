@@ -3,4 +3,4 @@
 
 # Links
 - [yahoo](http://yahoo.co.jp)
-- [google](htto://google.co.jp)
+- [google](http://google.co.jp)
